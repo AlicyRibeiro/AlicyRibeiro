@@ -1,2 +1,2 @@
-# 👋 Oi, eu sou a Ana!
-Este é o README do meu perfil 😄
+# 👋 Oi, eu sou a Alicy!
+Bem-vindo(a) ao meu GitHub 
