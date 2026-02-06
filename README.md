@@ -45,5 +45,14 @@ Sou graduanda em **Engenharia de Computação**, com interesse em sistemas compu
 
 ---
 
-##  GitHub Stats 📈
+##  📈 GitHub Stats 
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlicyRibeiro&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlicyRibeiro&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlicyRibeiro&layout=compact&theme=tokyonight&hide=html,css"/>
+</p>
 
