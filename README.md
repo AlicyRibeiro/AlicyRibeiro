@@ -10,7 +10,7 @@
 
 Olá, eu sou a Alicy Ribeiro!  
 
-Sou graduanda em **Engenharia de Computação**, com interesse em sistemas computacionais e tecnologias de baixo nível.
+Sou graduanda em **Engenharia de Computação**, com interesse em sistemas computacionais e tecnologias.
 
 ## 🔍 Focos de Estudo
 - Linux & Sistemas Operacionais  
@@ -24,7 +24,13 @@ Sou graduanda em **Engenharia de Computação**, com interesse em sistemas compu
 
 ## 👩‍💻 Linguagens
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,asm" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python," />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Assembly-ASM-4B4B4B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ARM-Embedded-0091BD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/VHDL-0091BD?style=flat-square"/>
 </p>
 
 ---
@@ -45,14 +51,9 @@ Sou graduanda em **Engenharia de Computação**, com interesse em sistemas compu
 
 ---
 
-##  📈 GitHub Stats 
+##  📊 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlicyRibeiro&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlicyRibeiro&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlicyRibeiro&layout=compact&theme=tokyonight&hide=html,css"/>
 </p>
 
