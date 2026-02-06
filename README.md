@@ -2,12 +2,15 @@
   <img src="assets/workspace.png" alt="Workspace de desenvolvimento" width="85%" />
 </p>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=9F7AEA&center=true&vCenter=true&width=700&lines=Engenharia+de+Computação;Linux+e+Sistemas+Embarcados;Arquitetura+de+Computadores;Aprendizado+contínuo+em+baixo+n%C3%ADvel" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1800&color=9F7AEA&center=true&vCenter=true&width=700&lines=Talk+is+cheap.+Show+me+the+code.+–+Linus+Torvalds" />
 </p>
 
+
+
 ---
-# 👩‍💻 Alicy Ribeiro
+#  Alicy Ribeiro
 
  Graduanda em Engenharia de Computação
 
