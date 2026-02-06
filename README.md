@@ -10,18 +10,15 @@
 
 Olá, eu sou a Alicy Ribeiro!  
 
-Sou graduanda em **Engenharia de Computação**, apaixonada por tecnologia de baixo nível até aplicações modernas.  
-Atualmente estudo e desenvolvo projetos envolvendo **Linux, Sistemas Embarcados, IoT, Sistemas Digitais, Arquitetura de Computadores e DevOps**.
+Sou graduanda em **Engenharia de Computação**, com interesse em sistemas computacionais e tecnologias de baixo nível.
 
----
-
-##  Áreas de Interesse
--  Linux & Sistemas Operacionais  
--  Sistemas Embarcados & IoT  
--  Arquitetura de Computadores  
--  Sistemas Digitais  
--  Programação em Baixo Nível  
--  Fundamentos da Computação  
+## 🔍 Focos de Estudo
+- Linux & Sistemas Operacionais  
+- Sistemas Embarcados  
+- Arquitetura e Organização de Computadores  
+- Sistemas Digitais  
+- Programação em Baixo Nível  
+  
 
 ---
 
