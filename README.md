@@ -10,15 +10,7 @@
 
 Olá, eu sou a Alicy Ribeiro!  
 
-Sou graduanda em **Engenharia de Computação**, com interesse em sistemas computacionais e tecnologias.
-
-## 🔍 Focos de Estudo
-- Linux & Sistemas Operacionais  
-- Sistemas Embarcados  
-- Arquitetura e Organização de Computadores  
-- Sistemas Digitais  
-- Programação em Baixo Nível  
-  
+Sou graduanda em **Engenharia de Computação**, com foco em Sistemas Embarcados e tecnologias.
 
 ---
 
