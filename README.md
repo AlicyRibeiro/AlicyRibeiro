@@ -74,7 +74,3 @@ Sou graduanda em **Engenharia de Computação**, com foco em Sistemas Embarcados
   />
 </p>
 
----
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlicyRibeiro&theme=tokyo-night&hide_border=true" />
-</p>
