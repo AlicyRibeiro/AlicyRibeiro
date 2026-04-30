@@ -32,6 +32,7 @@ Sou graduanda em **Engenharia de Computação**, com foco em Sistemas Embarcados
 
 
 ##  💼 Tools & Technologies
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,git,github,arduino,raspberrypi,latex" />
 </p>
@@ -40,6 +41,9 @@ Sou graduanda em **Engenharia de Computação**, com foco em Sistemas Embarcados
   <img src="https://img.shields.io/badge/BeagleBone%20Black-000000?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
+<p align="left">
+<img src="https://img.shields.io/badge/STM32-Blue%20Pill-8b5cf6?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+</p>
 
 ---
 
