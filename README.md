@@ -73,4 +73,3 @@ Sou graduanda em **Engenharia de Computação**, com foco em Sistemas Embarcados
     alt="Linguagens mais usadas"
   />
 </p>
-
