@@ -15,20 +15,23 @@ Sou graduanda em **Engenharia de Computação**, com foco em Sistemas Embarcados
 
 ---
 
-## 👩‍💻 Linguagens
+## 👩‍💻 Languages
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Assembly-ASM-4B4B4B?style=flat-square"/>
-  <img src="https://img.shields.io/badge/ARM-Embedded-0091BD?style=flat-square"/>
-  <img src="https://img.shields.io/badge/VHDL-0091BD?style=flat-square"/>
+<img src="https://img.shields.io/badge/Assembly-ASM-8b5cf6?style=flat-square"/>
+<img src="https://img.shields.io/badge/ARM-Embedded-8b5cf6?style=flat-square"/>
+<img src="https://img.shields.io/badge/VHDL-8b5cf6?style=flat-square"/>
 </p>
+
 
 ---
 
-##  💼 Ferramentas & Tecnologias
+
+##  💼 Tools & Technologies
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,git,github,arduino,raspberrypi,latex" />
 </p>
@@ -37,21 +40,23 @@ Sou graduanda em **Engenharia de Computação**, com foco em Sistemas Embarcados
   <img src="https://img.shields.io/badge/BeagleBone%20Black-000000?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
+
 ---
 
-## 📫 Contato
+
+## 📫 Contact
 
 <p align="left">
   <a href="mailto:ana.ribeiroalicy@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://instagram.com/ana.a.ribeiro">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-8b5cf6?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
   <a href="https://www.linkedin.com/in/ana-a-r-santos/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -61,17 +66,23 @@ Sou graduanda em **Engenharia de Computação**, com foco em Sistemas Embarcados
 ##  📊 GitHub Stats 
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AlicyRibeiro&show_icons=true&theme=tokyonight&hide_border=true"
+  <img 
+  src="https://github-readme-stats.vercel.app/api?username=AlicyRibeiro&show_icons=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&icon_color=8b5cf6&border_color=8b5cf6"
     alt="GitHub Stats"
-  />
+/>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlicyRibeiro&layout=compact&theme=tokyonight&hide_border=true"
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlicyRibeiro&layout=compact&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&border_color=8b5cf6"
     alt="Linguagens mais usadas"
-  />
+/>
 </p>
 
+<hr style="border: 1px solid #8b5cf6;">
 
+## 📈 Activity Graph
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=AlicyRibeiro&theme=tokyo-night&color=8b5cf6&line=8b5cf6"
+/>
