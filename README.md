@@ -7,11 +7,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1800&color=9F7AEA&center=true&vCenter=true&width=700&lines=Talk+is+cheap.+Show+me+the+code.+–+Linus+Torvalds" />
 </p>
 
----
 
-Olá, eu sou a Alicy Ribeiro!  
+Hello, I'm Alicy Ribeiro!  
 
-Sou graduanda em **Engenharia de Computação**, com foco em Sistemas Embarcados.
+I'm a Computer Engineering student.  
+Current focus: Embedded Systems, Linux, and low-level programming.
 
 ---
 
@@ -28,7 +28,6 @@ Sou graduanda em **Engenharia de Computação**, com foco em Sistemas Embarcados
 </p>
 
 
----
 
 
 ##  💼 Tools & Technologies
@@ -45,7 +44,7 @@ Sou graduanda em **Engenharia de Computação**, com foco em Sistemas Embarcados
 <img src="https://img.shields.io/badge/STM32-Blue%20Pill-8b5cf6?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
 </p>
 
----
+
 
 
 ## 📫 Contact
@@ -65,7 +64,6 @@ Sou graduanda em **Engenharia de Computação**, com foco em Sistemas Embarcados
 </p>
 
 
----
 
 ##  📊 GitHub Stats 
 
@@ -83,7 +81,6 @@ Sou graduanda em **Engenharia de Computação**, com foco em Sistemas Embarcados
 />
 </p>
 
-<hr style="border: 1px solid #8b5cf6;">
 
 ## 📈 Activity Graph
 
