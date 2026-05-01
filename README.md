@@ -82,6 +82,8 @@ Current focus: Embedded Systems, Linux, and low-level programming.
 </p>
 
 
+
+
 ## 📈 Activity Graph
 
 <img 
