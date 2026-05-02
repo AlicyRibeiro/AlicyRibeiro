@@ -69,18 +69,17 @@ Current focus: Embedded Systems, Linux, and low-level programming.
 
 <p align="center">
   <img 
-  src="https://github-readme-stats.vercel.app/api?username=AlicyRibeiro&show_icons=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&icon_color=8b5cf6&border_color=8b5cf6"
+    src="https://github-readme-stats.vercel.app/api?username=AlicyRibeiro&show_icons=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&icon_color=8b5cf6&border_color=8b5cf6"
     alt="GitHub Stats"
-/>
+  />
 </p>
 
 <p align="center">
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlicyRibeiro&layout=compact&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&border_color=8b5cf6"
-    alt="Linguagens mais usadas"
-/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlicyRibeiro&layout=compact&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&border_color=8b5cf6"
+    alt="Most Used Languages"
+  />
 </p>
-
 
 
 
