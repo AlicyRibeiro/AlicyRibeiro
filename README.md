@@ -9,7 +9,7 @@
 </p>
 
 
-👋 Hello, I'm Alicy Ribeiro!  
+### 👋 Hello, I'm Alicy Ribeiro!  
 
 I'm a Computer Engineering student.  
 Current focus: Embedded Systems, Linux, and low-level programming.
