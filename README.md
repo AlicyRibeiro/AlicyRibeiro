@@ -65,24 +65,27 @@ Current focus: Embedded Systems, Linux, and low-level programming.
 </p>
 
 
+---
 
-##  📊 GitHub Stats 
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=AlicyRibeiro&show_icons=true&theme=tokyonight&hide_border=false"
-    alt="GitHub Stats"
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=AlicyRibeiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&border_radius=12"
+  />
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlicyRibeiro&layout=compact&theme=tokyonight&langs_count=8&hide=jupyter%20notebook&border_radius=12"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlicyRibeiro&layout=compact&theme=tokyonight&hide_border=false"
-    alt="Most Used Languages"
+  <img
+    src="https://streak-stats.demolab.com?user=AlicyRibeiro&theme=tokyonight&border_radius=12"
   />
 </p>
 
 
+---
 
 ## 📈 Activity Graph
 
