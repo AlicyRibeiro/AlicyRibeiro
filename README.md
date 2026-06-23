@@ -29,7 +29,7 @@ Current focus: Embedded Systems, Linux, and low-level programming.
 </p>
 
 
-
+---
 
 ##  💼 Tools & Technologies
 
@@ -46,7 +46,7 @@ Current focus: Embedded Systems, Linux, and low-level programming.
 </p>
 
 
-
+---
 
 ## 📫 Contact
 
@@ -63,6 +63,7 @@ Current focus: Embedded Systems, Linux, and low-level programming.
     <img src="https://img.shields.io/badge/LinkedIn-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
 
 
 ---
