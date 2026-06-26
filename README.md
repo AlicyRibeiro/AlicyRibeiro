@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/workspace.png" alt="Workspace de desenvolvimento" width="1000%" />
+  <img src="assets/workspace.png" alt="Workspace de desenvolvimento" width="100%" />
 </p>
 
 
@@ -9,7 +9,7 @@
 </p>
 
 
-### 👋 Hello, I'm Alicy Ribeiro!
+### 👋 Hi, I'm Alicy Ribeiro!
 
 Welcome to my GitHub!
 
@@ -22,6 +22,28 @@ My main interests are centered around:
 -  **Low-Level Programming** — Computer architecture, firmware development and hardware interfaces.
 
 I enjoy building projects that bridge the gap between hardware and software while continuously exploring new technologies and improving my engineering skills.
+
+---
+
+## 🚀 Featured Projects
+
+Here are some of the projects that best represent my journey in Computer Engineering, with a focus on Embedded Systems, Linux development, and low-level programming.
+<p align="center">
+  
+  <a href="https://github.com/AlicyRibeiro/linux-kernel-drivers">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlicyRibeiro&repo=linux-kernel-drivers&theme=tokyonight"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AlicyRibeiro/RP2040-USB-Linux-Driver">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlicyRibeiro&repo=RP2040-USB-Linux-Driver&theme=tokyonight"/>
+  </a>
+
+  <a href="https://github.com/AlicyRibeiro/TPSE1-LABS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlicyRibeiro&repo=TPSE1-LABS&theme=tokyonight"/>
+  </a>
+</p>
 
 ---
 
@@ -57,6 +79,45 @@ I enjoy building projects that bridge the gap between hardware and software whil
 
 ---
 
+## 📚 Currently Learning
+
+I'm constantly improving my skills through university projects and personal studies. My current learning journey focuses on:
+
+-  Embedded Linux & Linux Kernel Development
+-  Bare-Metal Programming with STM32
+-  Embedded Systems using BeagleBone Black
+-  Linux Device Drivers
+-  Computer Architecture & Operating Systems
+-  Embedded Communication Protocols (UART, SPI, I²C)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=AlicyRibeiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&border_radius=12"
+  />
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlicyRibeiro&layout=compact&theme=tokyonight&langs_count=8&hide=jupyter%20notebook&border_radius=12"
+  />
+</p>
+
+
+---
+
+
+## 📈 Activity Graph
+
+<p align="center">
+  
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=AlicyRibeiro&theme=tokyo-night&color=8b5cf6&line=8b5cf6"
+/>
+</p>
+
+---
+
 
 ## 📫 Contact
 
@@ -74,28 +135,7 @@ I enjoy building projects that bridge the gap between hardware and software whil
   </a>
 </p>
 
-
-
 ---
 
-## 📊 GitHub Statistics
+⭐ Feel free to explore my repositories and connect with me!
 
-<p align="center">
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=AlicyRibeiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&border_radius=12"
-  />
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlicyRibeiro&layout=compact&theme=tokyonight&langs_count=8&hide=jupyter%20notebook&border_radius=12"
-  />
-</p>
-
-
-
-
----
-
-## 📈 Activity Graph
-
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=AlicyRibeiro&theme=tokyo-night&color=8b5cf6&line=8b5cf6"
-/>
