@@ -87,6 +87,26 @@ I'm constantly improving my skills through university projects and personal stud
 
 ---
 
+
+## 📫 Contact
+
+<p align="left">
+  <a href="mailto:ana.ribeiroalicy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/ana.a.ribeiro">
+    <img src="https://img.shields.io/badge/Instagram-8b5cf6?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/ana-a-r-santos/">
+    <img src="https://img.shields.io/badge/LinkedIn-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -109,25 +129,6 @@ I'm constantly improving my skills through university projects and personal stud
 <img 
   src="https://github-readme-activity-graph.vercel.app/graph?username=AlicyRibeiro&theme=tokyo-night&color=8b5cf6&line=8b5cf6"
 />
-</p>
-
----
-
-
-## 📫 Contact
-
-<p align="left">
-  <a href="mailto:ana.ribeiroalicy@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://instagram.com/ana.a.ribeiro">
-    <img src="https://img.shields.io/badge/Instagram-8b5cf6?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/ana-a-r-santos/">
-    <img src="https://img.shields.io/badge/LinkedIn-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 </p>
 
 ---
