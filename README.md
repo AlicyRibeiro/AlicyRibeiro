@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/workspace.png" alt="Workspace de desenvolvimento" width="85%" />
+  <img src="assets/workspace.png" alt="Workspace de desenvolvimento" width="1000%" />
 </p>
 
 
@@ -9,10 +9,19 @@
 </p>
 
 
-### 👋 Hello, I'm Alicy Ribeiro!  
+### 👋 Hello, I'm Alicy Ribeiro!
 
-I'm a Computer Engineering student.  
-Current focus: Embedded Systems, Linux, and low-level programming.
+Welcome to my GitHub!
+
+I'm a **Computer Engineering student** at the **Federal University of Ceará (UFC) – Quixadá Campus**, passionate about understanding how software interacts directly with hardware.
+
+My main interests are centered around:
+
+- 🔧 **Embedded Systems** — Bare-Metal programming, STM32, BeagleBone Black and ARM-based platforms.
+- 🐧 **Linux Development** — Linux kernel, device drivers and operating systems.
+- ⚙️ **Low-Level Programming** — Computer architecture, firmware development and hardware interfaces.
+
+I enjoy building projects that bridge the gap between hardware and software while continuously exploring new technologies and improving my engineering skills.
 
 ---
 
@@ -47,6 +56,7 @@ Current focus: Embedded Systems, Linux, and low-level programming.
 
 
 ---
+
 
 ## 📫 Contact
 
