@@ -44,6 +44,7 @@ Here are some of the projects that best represent my journey in Computer Enginee
   </a>
 
 </p>
+
 ---
 
 ## 👩‍💻 Languages
