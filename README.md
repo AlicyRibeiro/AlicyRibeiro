@@ -17,9 +17,9 @@ I'm a **Computer Engineering student** at the **Federal University of Ceará (UF
 
 My main interests are centered around:
 
-- 🔧 **Embedded Systems** — Bare-Metal programming, STM32, BeagleBone Black and ARM-based platforms.
-- 🐧 **Linux Development** — Linux kernel, device drivers and operating systems.
-- ⚙️ **Low-Level Programming** — Computer architecture, firmware development and hardware interfaces.
+-  **Embedded Systems** — Bare-Metal programming, STM32, BeagleBone Black and ARM-based platforms.
+-  **Linux Development** — Linux kernel, device drivers and operating systems.
+-  **Low-Level Programming** — Computer architecture, firmware development and hardware interfaces.
 
 I enjoy building projects that bridge the gap between hardware and software while continuously exploring new technologies and improving my engineering skills.
 
