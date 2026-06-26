@@ -62,7 +62,7 @@ Here are some of the projects that best represent my journey in Computer Enginee
 
 ---
 
-## 🖥️ Platforms
+## 🖥️ tools and Platforms
 
 <p align="left">
   <img src="https://img.shields.io/badge/ARM-Cortex--M-8b5cf6?style=for-the-badge"/>
