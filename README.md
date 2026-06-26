@@ -28,30 +28,30 @@ I enjoy building projects that bridge the gap between hardware and software whil
 ## 🚀 Featured Projects
 
 Here are some of the projects that best represent my journey in Computer Engineering, with a focus on Embedded Systems, Linux development, and low-level programming.
+
 <p align="center">
-  
+
   <a href="https://github.com/AlicyRibeiro/linux-kernel-drivers">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlicyRibeiro&repo=linux-kernel-drivers&theme=tokyonight"/>
+    <img width="260" src="https://github-readme-stats.vercel.app/api/pin/?username=AlicyRibeiro&repo=linux-kernel-drivers&theme=tokyonight&hide_border=true"/>
   </a>
-</p>
 
-<p align="center">
   <a href="https://github.com/AlicyRibeiro/RP2040-USB-Linux-Driver">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlicyRibeiro&repo=RP2040-USB-Linux-Driver&theme=tokyonight"/>
+    <img width="260" src="https://github-readme-stats.vercel.app/api/pin/?username=AlicyRibeiro&repo=RP2040-USB-Linux-Driver&theme=tokyonight&hide_border=true"/>
   </a>
 
-  <a href="https://github.com/AlicyRibeiro/TPSE1-LABS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlicyRibeiro&repo=TPSE1-LABS&theme=tokyonight"/>
+  <a href="https://github.com/AlicyRibeiro/museu-antenas">
+    <img width="260" src="https://github-readme-stats.vercel.app/api/pin/?username=AlicyRibeiro&repo=museu-antenas&theme=tokyonight&hide_border=true"/>
   </a>
+
 </p>
-
 ---
 
 ## 👩‍💻 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,css,html" />
 </p>
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/Assembly-NASM-8b5cf6?style=flat-square"/>
