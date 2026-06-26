@@ -79,11 +79,7 @@ Current focus: Embedded Systems, Linux, and low-level programming.
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=AlicyRibeiro&theme=tokyonight&border_radius=12"
-  />
-</p>
+
 
 
 ---
