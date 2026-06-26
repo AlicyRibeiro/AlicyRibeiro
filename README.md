@@ -54,26 +54,20 @@ Here are some of the projects that best represent my journey in Computer Enginee
 </p>
 
 <p align="left">
-<img src="https://img.shields.io/badge/Assembly-ASM-8b5cf6?style=flat-square"/>
-<img src="https://img.shields.io/badge/ARM-Embedded-8b5cf6?style=flat-square"/>
-<img src="https://img.shields.io/badge/VHDL-8b5cf6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Assembly-NASM-8b5cf6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/VHDL-8b5cf6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ARM-Embedded-8b5cf6?style=flat-square"/>
 </p>
-
 
 ---
 
-##  💼 Tools & Technologies
+## 🖥️ Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,arduino,raspberrypi,latex" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/BeagleBone%20Black-000000?style=for-the-badge&logo=linux&logoColor=white" />
-</p>
-
-<p align="left">
-<img src="https://img.shields.io/badge/STM32-Blue%20Pill-8b5cf6?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/ARM-Cortex--M-8b5cf6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STM32-Blue%20Pill-8b5cf6?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BeagleBone%20Black-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
 </p>
 
 
