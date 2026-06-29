@@ -47,6 +47,11 @@ Here are some of the projects that best represent my journey in Computer Enginee
   <img width="260" src="https://github-readme-stats.vercel.app/api/pin/?username=ameliasants&repo=projeto_micro&theme=tokyonight&hide_border=true"/>
 </a>
 
+
+  <a  href=https://github.com/AlicyRibeiro/QXD0182-visao-computacional-labs.git>
+  <img width="260" src="https://github-readme-stats.vercel.app/api/pin/?username=ameliasants&repo=projeto_micro&theme=tokyonight&hide_border=true"/>
+</a>
+
 </p>
 
 ---
