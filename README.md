@@ -43,6 +43,10 @@ Here are some of the projects that best represent my journey in Computer Enginee
     <img width="260" src="https://github-readme-stats.vercel.app/api/pin/?username=AlicyRibeiro&repo=museu-antenas&theme=tokyonight&hide_border=true"/>
   </a>
 
+  <a href="https://github.com/ameliasants/projeto_micro">
+  <img width="260" src="https://github-readme-stats.vercel.app/api/pin/?username=ameliasants&repo=projeto_micro&theme=tokyonight&hide_border=true"/>
+</a>
+
 </p>
 
 ---
