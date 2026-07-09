@@ -45,9 +45,8 @@ Here are some of the projects that best represent my journey in Computer Enginee
 ## 👩‍💻 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,css,html" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css" />
 </p>
-
 
 <p align="left">
   <img src="https://img.shields.io/badge/Assembly-NASM-8b5cf6?style=flat-square"/>
@@ -55,9 +54,23 @@ Here are some of the projects that best represent my journey in Computer Enginee
   <img src="https://img.shields.io/badge/ARM-Embedded-8b5cf6?style=flat-square"/>
 </p>
 
+
 ---
 
-## 🖥️ tools and Platforms
+### 💻 Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,vscode,cmake,opencv" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STM32CubeMX-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+</p>
+
+---
+
+### ⚙️ Embedded Platforms
 
 <p align="left">
   <img src="https://img.shields.io/badge/ARM-Cortex--M-8b5cf6?style=for-the-badge"/>
@@ -65,7 +78,6 @@ Here are some of the projects that best represent my journey in Computer Enginee
   <img src="https://img.shields.io/badge/BeagleBone%20Black-000000?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
 </p>
-
 
 ---
 
