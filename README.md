@@ -29,7 +29,6 @@ I enjoy building projects that bridge the gap between hardware and software whil
 
 Here are some of the projects that best represent my journey in Computer Engineering, with a focus on Embedded Systems, Linux development, and low-level programming.
 
-## 🚀 Featured Projects
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
