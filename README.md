@@ -29,30 +29,16 @@ I enjoy building projects that bridge the gap between hardware and software whil
 
 Here are some of the projects that best represent my journey in Computer Engineering, with a focus on Embedded Systems, Linux development, and low-level programming.
 
-<p align="center">
+## 🚀 Featured Projects
 
-  <a href="https://github.com/AlicyRibeiro/linux-kernel-drivers">
-    <img width="260" src="https://github-readme-stats.vercel.app/api/pin/?username=AlicyRibeiro&repo=linux-kernel-drivers&theme=tokyonight&hide_border=true"/>
-  </a>
-
-  <a href="https://github.com/AlicyRibeiro/RP2040-USB-Linux-Driver">
-    <img width="260" src="https://github-readme-stats.vercel.app/api/pin/?username=AlicyRibeiro&repo=RP2040-USB-Linux-Driver&theme=tokyonight&hide_border=true"/>
-  </a>
-
-  <a href="https://github.com/AlicyRibeiro/museu-antenas">
-    <img width="260" src="https://github-readme-stats.vercel.app/api/pin/?username=AlicyRibeiro&repo=museu-antenas&theme=tokyonight&hide_border=true"/>
-  </a>
-
-  <a href="https://github.com/ameliasants/projeto_micro">
-  <img width="260" src="https://github-readme-stats.vercel.app/api/pin/?username=ameliasants&repo=projeto_micro&theme=tokyonight&hide_border=true"/>
-</a>
-
-
-  <a  href=https://github.com/AlicyRibeiro/QXD0182-visao-computacional-labs.git>
-  <img width="260" src="https://github-readme-stats.vercel.app/api/pin/?username=AlicyRibeiro&repo=QXD0182-visao-computacional-labs&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+|[ **Linux Kernel Drivers**](https://github.com/AlicyRibeiro/linux-kernel-drivers ) | Linux kernel modules, character device drivers and USB drivers developed during Embedded Linux studies. | `C` `Linux` `Kernel` |||
+| [**RP2040 USB Linux Driver**](https://github.com/AlicyRibeiro/RP2040-USB-Linux-Driver) | USB communication between Linux and RP2040 firmware using TinyUSB. | `C` `RP2040` `USB` |||
+| [**Smart Circuit Breaker**](https://github.com/ameliasants/projeto_micro) | Embedded automation project using STM32 and a mobile application for monitoring and control. | `STM32` `C` `Bluetooth` |||
+| [**Museum of Antennas**](https://github.com/AlicyRibeiro/museu-antenas) | Educational website about antennas and telecommunications concepts. | `HTML` `CSS` `JavaScript` |||
+| [**Computer Vision Labs**](https://github.com/AlicyRibeiro/QXD0182-visao-computacional-labs ) | Practical assignments using OpenCV for image processing and computer vision. | `Python` `OpenCV` |||
+| [**Battle at Traitors Castle**](https://github.com/AlicyRibeiro/Battle_at_Traitors_Castle) | Academic game project developed in C. | `C` |||
 
 ---
 
