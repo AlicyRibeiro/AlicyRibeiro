@@ -9,19 +9,33 @@
 </p>
 
 
-### 👋 Hi, I'm Alicy Ribeiro!
 
-Welcome to my GitHub!
+<h1 align="center">Hi, I'm Alicy Ribeiro 👋</h1>
 
-I'm a **Computer Engineering student** at the **Federal University of Ceará (UFC) – Quixadá Campus**, passionate about understanding how software interacts directly with hardware.
+<p align="center">
+  Computer Engineering Student • Embedded Systems • Linux • Low-Level Programming
+</p>
 
-My main interests are centered around:
+---
 
--  **Embedded Systems** — Bare-Metal programming, STM32, BeagleBone Black and ARM-based platforms.
--  **Linux Development** — Linux kernel, device drivers and operating systems.
--  **Low-Level Programming** — Computer architecture, firmware development and hardware interfaces.
+## 👩‍💻 About Me
 
-I enjoy building projects that bridge the gap between hardware and software while continuously exploring new technologies and improving my engineering skills.
+I'm a **Computer Engineering student** at the **Federal University of Ceará (UFC) – Quixadá Campus**, interested in the intersection between hardware and software.
+
+My main focus is on **Embedded Systems, Linux development and low-level programming**, with hands-on experience in microcontrollers, embedded platforms, firmware and Linux drivers.
+
+I enjoy understanding how systems work at a low level and turning that knowledge into practical projects.
+
+---
+
+## 🎯 Areas of Focus
+
+-  Embedded Systems & Firmware
+-  Embedded Linux & Linux Kernel
+-  Device Drivers & Hardware Interfaces
+-  Low-Level Programming
+-  Computer Architecture
+-  Embedded Communication Protocols
 
 ---
 
@@ -81,6 +95,15 @@ Here are some of the projects that best represent my journey in Computer Enginee
 
 ---
 
+## 🎓 Education
+
+**Federal University of Ceará — UFC**  
+Bachelor's Degree in Computer Engineering  
+📍 Quixadá, Ceará, Brazil
+
+---
+
+
 ## 📚 Currently Learning
 
 I'm constantly improving my skills through university projects and personal studies. My current learning journey focuses on:
@@ -114,17 +137,13 @@ I'm constantly improving my skills through university projects and personal stud
 ---
 
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=AlicyRibeiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&border_radius=12"
-  />
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlicyRibeiro&layout=compact&theme=tokyonight&langs_count=8&hide=jupyter%20notebook&border_radius=12"
-  />
+  <a href="https://github.com/AlicyRibeiro">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlicyRibeiro&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
-
 
 ---
 
