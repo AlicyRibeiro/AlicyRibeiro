@@ -9,22 +9,30 @@
 </p>
 
 
-
 <h1 align="center">Hi, I'm Alicy Ribeiro 👋</h1>
 
 <p align="center">
-  Computer Engineering Student • Embedded Systems • Linux • Low-Level Programming
+  Computer Engineering Student
+  <br>
+  Embedded Systems • Linux • Low-Level Programming
 </p>
+
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a **Computer Engineering student** at the **Federal University of Ceará (UFC) – Quixadá Campus**, interested in the intersection between hardware and software.
 
-My main focus is on **Embedded Systems, Linux development and low-level programming**, with hands-on experience in microcontrollers, embedded platforms, firmware and Linux drivers.
 
-I enjoy understanding how systems work at a low level and turning that knowledge into practical projects.
+I'm a **Computer Engineering student at the Federal University of Ceará (UFC)**, 
+with a strong interest in the intersection between **hardware and software**.
+
+My interests include **Embedded Systems, Embedded Linux, Linux Kernel development,
+device drivers, firmware and low-level programming**.
+
+I enjoy understanding how systems work beneath the abstractions and turning that
+knowledge into practical projects involving **microcontrollers, embedded platforms
+and operating systems**.
 
 ---
 
@@ -98,7 +106,7 @@ Here are some of the projects that best represent my journey in Computer Enginee
 ## 🎓 Education
 
 **Federal University of Ceará — UFC**  
-Bachelor's Degree in Computer Engineering  
+B.Sc. in Computer Engineering — *in progress*  
 📍 Quixadá, Ceará, Brazil
 
 ---
@@ -118,19 +126,23 @@ I'm constantly improving my skills through university projects and personal stud
 ---
 
 
-## 📫 Contact
+## 📫 Let's Connect
 
 <p align="left">
   <a href="mailto:ana.ribeiroalicy@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://instagram.com/ana.a.ribeiro">
-    <img src="https://img.shields.io/badge/Instagram-8b5cf6?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://www.linkedin.com/in/ana-a-r-santos/">
     <img src="https://img.shields.io/badge/LinkedIn-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/AlicyRibeiro">
+    <img src="https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/ana.a.ribeiro">
+    <img src="https://img.shields.io/badge/Instagram-8b5cf6?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
@@ -157,7 +169,11 @@ I'm constantly improving my skills through university projects and personal stud
 />
 </p>
 
+
+
 ---
+
+
 
 ⭐ Feel free to explore my repositories and connect with me!
 
