@@ -1,30 +1,15 @@
 ## 👩‍💻 About Me
 
-<table>
-  <tr>
-    <td width="38%" align="center" valign="top">
-      <img src="assets/workspace.png" alt="Embedded Systems Workspace" width="100%" />
-    </td>
-    <td width="62%" valign="top">
-      <h3>Computer Engineering Student</h3>
-      <p>
-        I'm a Computer Engineering student at the <strong>Federal University of Ceará (UFC)</strong>,
-        with a strong interest in the intersection between <strong>hardware and software</strong>.
-      </p>
-      <p>
-        My interests include <strong>Embedded Systems, Embedded Linux, Linux Kernel development,
-        device drivers, firmware and low-level programming</strong>.
-      </p>
-      <p>
-        I enjoy understanding how systems work beneath the abstractions and turning that
-        knowledge into practical projects involving <strong>microcontrollers, embedded platforms
-        and operating systems</strong>.
-      </p>
-    </td>
-  </tr>
-</table>
+<img src="assets/workspace.png" alt="Embedded Systems Workspace" width="32%" align="left" />
 
----
+I'm a Computer Engineering student at the Federal University of Ceará (UFC), interested in the intersection between hardware and software.
+
+My interests include Embedded Systems, Embedded Linux, Linux Kernel development, device drivers, firmware and low-level programming.
+
+I enjoy understanding how systems work beneath the abstractions and turning that knowledge into practical projects involving microcontrollers, embedded platforms and operating systems.
+
+<br clear="left" />
+
 
 ## 👩‍💻 Languages
 
