@@ -153,26 +153,22 @@ I'm constantly improving my skills through university projects and personal stud
 
 <p align="center">
   <a href="https://github.com/AlicyRibeiro">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlicyRibeiro&theme=tokyonight&hide_border=true" />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=AlicyRibeiro&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=c9d1d9&icon_color=8b5cf6&ring_color=a78bfa&include_all_commits=true&count_private=true"
+      height="180"
+      alt="GitHub Stats"
+    />
+  </a>
+  <a href="https://github.com/AlicyRibeiro">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=AlicyRibeiro&hide_border=true&background=0d1117&ring=a78bfa&fire=c4b5fd&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=ffffff&sideNums=ffffff&dates=9ca3af"
+      height="180"
+      alt="GitHub Contribution Streak"
+    />
   </a>
 </p>
 
 ---
-
-
-## 📈 Activity Graph
-
-<p align="center">
-  
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=AlicyRibeiro&theme=tokyo-night&color=8b5cf6&line=8b5cf6"
-/>
-</p>
-
-
-
----
-
 
 
 ⭐ Feel free to explore my repositories and connect with me!
