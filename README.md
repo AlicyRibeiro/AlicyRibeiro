@@ -1,38 +1,80 @@
+## 👩‍💻 About Me
 
-<p align="center">
-  <img src="assets/workspace.png" alt="Workspace de desenvolvimento" width="100%" />
+<table>
+  <tr>
+    <td width="38%" align="center" valign="top">
+      <img src="assets/workspace.png" alt="Embedded Systems Workspace" width="100%" />
+    </td>
+    <td width="62%" valign="top">
+      <h3>Computer Engineering Student</h3>
+      <p>
+        I'm a Computer Engineering student at the <strong>Federal University of Ceará (UFC)</strong>,
+        with a strong interest in the intersection between <strong>hardware and software</strong>.
+      </p>
+      <p>
+        My interests include <strong>Embedded Systems, Embedded Linux, Linux Kernel development,
+        device drivers, firmware and low-level programming</strong>.
+      </p>
+      <p>
+        I enjoy understanding how systems work beneath the abstractions and turning that
+        knowledge into practical projects involving <strong>microcontrollers, embedded platforms
+        and operating systems</strong>.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 👩‍💻 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css" alt="Programming languages and web technologies" />
 </p>
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1800&color=9F7AEA&center=true&vCenter=true&width=700&lines=Talk+is+cheap.+Show+me+the+code.+–+Linus+Torvalds" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Assembly-NASM-8b5cf6?style=flat-square" alt="Assembly NASM" />
+  <img src="https://img.shields.io/badge/VHDL-8b5cf6?style=flat-square" alt="VHDL" />
+  <img src="https://img.shields.io/badge/ARM-Embedded-8b5cf6?style=flat-square" alt="ARM Embedded" />
 </p>
 
+---
 
-<h1 align="center">Hi, I'm Alicy Ribeiro 👋</h1>
+## 💻 Development Tools
 
-<p align="center">
-  Computer Engineering Student
-  <br>
-  Embedded Systems • Linux • Low-Level Programming
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,vscode,cmake,opencv" alt="Git, VS Code, CMake and OpenCV" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32CubeIDE" />
+  <img src="https://img.shields.io/badge/STM32CubeMX-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32CubeMX" />
+</p>
+
+---
+
+## ⚙️ Embedded Platforms
+
+<p align="left">
+  <img src="https://img.shields.io/badge/ARM-Cortex--M-8b5cf6?style=for-the-badge" alt="ARM Cortex-M" />
+  <img src="https://img.shields.io/badge/STM32-Blue%20Pill-8b5cf6?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32 Blue Pill" />
+  <img src="https://img.shields.io/badge/ESP32-8b5cf6?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/BeagleBone%20Black-000000?style=for-the-badge&logo=linux&logoColor=white" alt="BeagleBone Black" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
 </p>
 
 
 ---
 
-## 👩‍💻 About Me
+<p align="center">
+  <em>Curious to know more about me?</em>
+  <br />
+  <sub>Expand below to discover my projects, skills and journey.</sub>
+</p>
 
+<details>
+<summary><strong>  <strong> 💜 ✨Explore my profile </strong></summary>
 
-
-I'm a **Computer Engineering student at the Federal University of Ceará (UFC)**, 
-with a strong interest in the intersection between **hardware and software**.
-
-My interests include **Embedded Systems, Embedded Linux, Linux Kernel development,
-device drivers, firmware and low-level programming**.
-
-I enjoy understanding how systems work beneath the abstractions and turning that
-knowledge into practical projects involving **microcontrollers, embedded platforms
-and operating systems**.
 
 ---
 
@@ -63,45 +105,6 @@ Here are some of the projects that best represent my journey in Computer Enginee
 
 ---
 
-## 👩‍💻 Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Assembly-NASM-8b5cf6?style=flat-square"/>
-  <img src="https://img.shields.io/badge/VHDL-8b5cf6?style=flat-square"/>
-  <img src="https://img.shields.io/badge/ARM-Embedded-8b5cf6?style=flat-square"/>
-</p>
-
-
----
-
-### 💻 Development Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,vscode,cmake,opencv" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/STM32CubeMX-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
-</p>
-
----
-
-### ⚙️ Embedded Platforms
-
-<p align="left">
-  <img src="https://img.shields.io/badge/ARM-Cortex--M-8b5cf6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/STM32-Blue%20Pill-8b5cf6?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESP32-8b5cf6?style=for-the-badge&logo=espressif&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BeagleBone%20Black-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-</p>
-
----
 
 ## 🎓 Education
 
@@ -168,8 +171,20 @@ I'm constantly improving my skills through university projects and personal stud
   </a>
 </p>
 
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AlicyRibeiro&theme=tokyo-night"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
 ---
 
 
 ⭐ Feel free to explore my repositories and connect with me!
 
+</details>
